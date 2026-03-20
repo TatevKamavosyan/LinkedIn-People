@@ -1,0 +1,104 @@
+Venture Smarter
+Apple
+Microsoft
+Google
+Slack
+Zoom
+Adobe
+Salesforce
+Shopify
+Canva
+Stripe
+Dropbox
+Discord
+Pinterest
+Snap Inc.
+Uber
+Airbnb
+DoorDash
+Instacart
+Reddit
+Netflix
+Spotify
+Twilio
+Okta
+Snowflake
+Datadog
+MongoDB
+Asana
+Monday.com
+Pentagram
+Frog Design
+IDEO
+Landor
+Wolff Olins
+MetaDesign
+DesignStudio
+Huge
+AKQA
+R/GA
+Publicis Sapient
+Digitas
+Leo Burnett
+BBDO
+Ogilvy
+WPP
+Dentsu
+Havas
+Grey Group
+McCann
+Saatchi & Saatchi
+Droga5
+VML
+Collins
+72andSunny
+McKinsey & Company
+Boston Consulting Group
+Bain & Company
+Deloitte
+PwC
+EY
+KPMG
+Accenture
+Oliver Wyman
+Gartner
+Forrester
+Nielsen
+Kantar
+Mercer
+Alvarez & Marsal
+FTI Consulting
+Huron Consulting
+Willis Towers Watson
+Booz Allen Hamilton
+Berkeley Research Group
+ZS Associates
+Roland Berger
+Arthur D. Little
+L.E.K. Consulting
+Kearney
+Moderna
+Pfizer
+Johnson & Johnson
+Merck
+Novartis
+Roche
+AbbVie
+Amgen
+Gilead Sciences
+Biogen
+Illumina
+Teladoc
+Oscar Health
+Clover Health
+Babylon Health
+Tesla
+Rivian
+Lucid Motors
+SpaceX
+Blue Origin
+General Electric
+Siemens
+Honeywell
+3M
+Caterpillar
