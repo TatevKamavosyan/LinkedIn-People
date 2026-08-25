@@ -15,7 +15,7 @@ A professional automation tool designed to find LinkedIn profiles of company exe
 
 ## 🚀 How to use
 1. Add company names to `companies.txt`.
-2. Run `linkdin.py`.
+2. Run `linkedin_scraper.py`.
 3. Results will be saved in `ceos_with_links.csv`.
    ![demo_screenshot_before](demo_screenshot_before.png)
    ![demo_screenshot_after](demo_screenshot_after.png)
